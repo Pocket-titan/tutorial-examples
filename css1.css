@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Markazi+Text|Open+Sans');
+
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: Open Sans;
+}
+
+.title {
+  font-size: 35px;
+  font-family: Markazi Text;
+}
+
+.heading {
+  font-size: 25px;
+  font-family: Markazi Text;
+}
+
+.subheading {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.text {
+  padding: 15px;
+  line-height: 1.5;
+}
